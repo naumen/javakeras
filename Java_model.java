@@ -77,7 +77,7 @@ public class Java_model {
         });
 
         ComputationGraph model = org.deeplearning4j.nn.modelimport.keras.KerasModelImport.importKerasModelAndWeights
-            ("/home/model1_functional.h5");
+            ("/home/user/models/model1_functional.h5");
 
         INDArray myArray = Nd4j.zeros(1,4); // one row 4 column array
         myArray.putScalar(0,0,1);
