@@ -1,4 +1,4 @@
-# kerastojava
+# javakeras
 Import Keras to Java
 
 Repo contains 2 files with the same models:
