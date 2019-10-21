@@ -9,4 +9,6 @@ Keras==2.2.5
 Tensorflow==1.5.0
 numpy==1.15.4
 
-2) Java file with the imported model
+2) Java file with the imported model;
+
+3) File of the Keras model.
